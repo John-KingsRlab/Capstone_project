@@ -224,4 +224,9 @@ PREDICTED <- sapply(lambda1,function(l){
 
 paste('Optimal RMSE of',min(RMSES),'is achieved with Lambda',lambda)
 
-REFERENCES 1. http://www.datainsight.at/report/Capstone_04_fin.html 2. http://www.rpubs.com/rezapci/MovieLens 3.https://courses.edx.org/courses/course-v1:HarvardX+PH125.8x+2T2019/courseware/a49844e4a3574c239f354654f9679888/7e7727ce543b4ed6ae6338626862eada/?child=first 4. https://rafalab.github.io/dsbook/introduction-to-machine-learning.html#an-example 5. https://data-flair.training/blogs/data-science-r-movie-recommendation/ 6. Irizzary,R., 2018,Introduction to Data Science, githubpage,https://rafalab.github.io/dsbook/
+REFERENCES 1. http://www.datainsight.at/report/Capstone_04_fin.html 
+2. http://www.rpubs.com/rezapci/MovieLens 
+3.https://courses.edx.org/courses/course-v1:HarvardX+PH125.8x+2T2019/courseware/a49844e4a3574c239f354654f9679888/7e7727ce543b4ed6ae6338626862eada/?child=first
+4. https://rafalab.github.io/dsbook/introduction-to-machine-learning.html#an-example
+5. https://data-flair.training/blogs/data-science-r-movie-recommendation/ 
+6. Irizzary,R., 2018,Introduction to Data Science, githubpage,https://rafalab.github.io/dsbook/
