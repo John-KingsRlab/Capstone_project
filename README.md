@@ -81,7 +81,6 @@ Y_u,i=μ+b_i+b_u+ϵ_u_i
 
 mean_edx <- mean(edx$rating)
 mean_edx
-## [1] 3.512465
 #encountered some challenges, my computer couldnot processed the edx dataset. that is to say i could not split the edx datasets into individual genre hence it was skipped. #Also,I considered different machine learning algorithms but due to my computer’s memory space and the challenge obtain the highest accuracy, #which is measured as the number of true matches of predicted ratings vs ratings of #the validation set. And the acceptable most algorithm for this project is THE PENEALIZED LEASTt SQUARES METHOD. Step2 #using the code made availabe in the course, we try to look at the movie effect
 
 movie_effect <- edx %>% 
